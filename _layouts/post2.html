@@ -1,0 +1,20 @@
+---
+layout: default2
+---
+
+<small>{{ page.date | date: "%Y-%m-%d" }}</small>
+<h2><a href="{{ post.url }}">{{ page.title }}</a></h2>
+
+<p class="view">
+<strong>Speaker:</strong> {{ page.speaker | default: site.author }} ({{ page.affiliation }})<br>
+<strong>Room:</strong> {{ page.place }}<br>
+<strong>Time:</strong> {{ page.time}} <br>
+<strong>Zoom:</strong> <a href="https://us06web.zoom.us/j/{{post.zoomid}}">{{ page.zoomid }}</a>
+</p>
+
+{{page.content}}
+
+
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
