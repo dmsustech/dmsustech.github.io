@@ -30,6 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dmsustech
 
 markdown: kramdown
+mathjax: true
 
 # Build settings
 #theme: minima
