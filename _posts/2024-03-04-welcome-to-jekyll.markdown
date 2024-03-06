@@ -8,6 +8,7 @@ speaker: Euclid
 affiliation: "University of Alexandria"
 zoomid: "000000"
 tags: geometry timetravel
+show: false
 ---
 
 We will discuss the axiomatic foundations of geometry and its applications to time travel.

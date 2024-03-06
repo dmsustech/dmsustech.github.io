@@ -6,10 +6,17 @@ layout: default2
 <h2><a href="{{ post.url }}">{{ page.title }}</a></h2>
 
 <p class="view">
-<strong>Speaker:</strong> {{ page.speaker | default: site.author }} ({{ page.affiliation }})<br>
+{% if page.homepage %}
+<strong>Speaker:</strong> <a href="{{page.homepage}}">{{ page.speaker }}</a> ({{ page.affiliation }})<br>
+{% else %}
+<strong>Speaker:</strong> {{ page.speaker }} ({{ page.affiliation }})<br>
+{% endif %}
 <strong>Room:</strong> {{ page.place }}<br>
-<strong>Time:</strong> {{ page.time}} <br>
+<strong>Time:</strong> {{ page.time}} 
+{% if page.zoom %}
+<br>
 <strong>Zoom:</strong> <a href="https://us06web.zoom.us/j/{{post.zoomid}}">{{ page.zoomid }}</a>
+{% endif %}
 </p>
 
 {{page.content}}
