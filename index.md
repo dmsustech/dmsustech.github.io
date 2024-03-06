@@ -4,7 +4,7 @@ layout: default2
 
 ## Organizers
 
-The SUSTech Discrete Mathematics Seminar is organized by [Ferdinand Ihringer](http://math.ihringer.org), [Qing Xiang](https://www.sustech.edu.cn/en/faculties/xiangqing.html), and [Ziqing Xiang](http://www.ziqing.org).
+The SUSTech Discrete Mathematics Seminar is organized by [Ferdinand Ihringer](http://math.ihringer.org), [Caiheng Li](https://www.sustech.edu.cn/en/faculties/licaiheng.html), [Qing Xiang](https://www.sustech.edu.cn/en/faculties/xiangqing.html), and [Ziqing Xiang](http://www.ziqing.org).
 
 You can contact us under [discretemath@sustech.edu.cn](mailto:discretemath@sustech.edu.cn).
 
