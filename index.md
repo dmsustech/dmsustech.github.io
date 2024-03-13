@@ -39,18 +39,3 @@ For Zoom links, please ask for the password.
 </article>
 {% endif %}
 {% endfor %}
-
-<script> 
-MathJax = {
-  loader: {
-    load: ['[tex]/textmacros']
-  },
-  tex: {
-    inlineMath: [['$', '$']],
-    processEscapes: true,
-    packages: {
-      '[+]': ['textmacros']
-    }
-  }
-};
-</script>

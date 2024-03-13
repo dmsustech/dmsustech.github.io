@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-<script type="text/javascript" async 
-src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?
-config=TeX-AMS-MML_HTMLorMML"></script>
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,6 +43,23 @@ config=TeX-AMS-MML_HTMLorMML"></script>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script> 
+    MathJax = {
+      loader: {
+        load: ['[tex]/textmacros']
+      },
+      tex: {
+        inlineMath: [['$', '$']],
+        processEscapes: true,
+        packages: {
+          '[+]': ['textmacros']
+        }
+      }
+    };
+    </script>
+    <script type="text/javascript" async 
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?
+    config=TeX-AMS-MML_HTMLorMML"></script>
   </body>
 </html>
 
