@@ -45,21 +45,12 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script> 
     MathJax = {
-      loader: {
-        load: ['[tex]/textmacros']
-      },
       tex: {
-        inlineMath: [['$', '$']],
-        processEscapes: true,
-        packages: {
-          '[+]': ['textmacros']
-        }
-      }
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
+      },
     };
     </script>
-    <script type="text/javascript" async 
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?
-    config=TeX-AMS-MML_HTMLorMML"></script>
+    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   </body>
 </html>
 
