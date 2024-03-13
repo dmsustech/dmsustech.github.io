@@ -13,8 +13,7 @@ For Zoom links, please ask for the password.
 
 ## Talks
 
-{% assign tolistpre = site.posts | group_by: "date" %}
-{% assign tolist = tolistpre | sort: "time" %}
+{% assign tolist = site.posts | sort "date" %}
 {% for post in tolist %}
 {% if post.show %}
 <article>
