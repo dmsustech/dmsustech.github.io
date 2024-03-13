@@ -26,7 +26,7 @@ For Zoom links, please ask for the password.
 <strong>Speaker:</strong> {{ post.speaker }} ({{ post.affiliation }})<br>
 {% endif %}
 <strong>Room:</strong> {{ post.place }}<br>
-<strong>Time:</strong> {{ post.time}}
+<strong>Time:</strong> {{ post.date | date: '%Y/%m/%d, %A'}}, {{ post.time}}
 {% if post.zoom %}
 <br>
 <strong>Zoom:</strong> <a href="https://us06web.zoom.us/j/{{post.zoomid}}">{{ page.zoomid }}</a>
