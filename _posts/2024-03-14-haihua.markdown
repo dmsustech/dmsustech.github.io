@@ -1,6 +1,6 @@
 ---
 layout: post2
-date:   2024-03-07 10:00:00 +0800
+date:   2024-03-14 10:00:00 +0800
 title:  "The BCH Family of Storage Codes on Triangle-Free Graphs and Its Relation to \\(R(3,t)\\)"
 place:  College of Science M1001
 time: "2024/03/14, Thursday, 10:00 - 11:00"
