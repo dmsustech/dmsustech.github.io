@@ -1,0 +1,12 @@
+---
+layout: post2
+date:   2024-03-14 11:00:00 +0800
+title:  "Equality of thickened ribbon Schur functions"
+place:  M1001
+time: "2024/03/14, Thursday, 11:00 - 12:00"
+speaker: "Yu Jin"
+affiliation: "Xiamen University"
+show: true
+---
+
+Two skew diagrams are defined to be equivalent if their corresponding skew Schur functions are equal. The equivalence classes for ribbons have been classified by Billera, Thomas and van Willigenburg in 2006. In this paper, we provide a complete characterization of equivalence classes for connected skew diagrams with exactly one $2\times m$ or $m\times 2$ block of boxes for all $m\ge 2$. In particular, possible sizes of equivalence classes are one, two or four, confirming special cases of the elusive conjecture on equivalent skew connected diagrams proposed by McNamara and van Willigenburg in 2009.
