@@ -3,7 +3,7 @@ layout      : post2
 date        : 2024-03-14 10:00:00 +0800
 time        : "10:00 - 11:00"
 place       : "College of Science M1001"
-title       : "The BCH Family of Storage Codes on Triangle-Free Graphs and Its Relation to \\(R(3,t)\\)"
+title       : "The BCH family of storage codes on triangle-free graphs and its relation to \\(R(3,t)\\)"
 speaker     : "Haihua Deng"
 affiliation : "SUSTech"
 show        : true
