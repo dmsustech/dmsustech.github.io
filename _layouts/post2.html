@@ -25,3 +25,18 @@ layout: default2
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
+
+<script> 
+window.MathJax = {
+  loader: {
+    load: ['[tex]/textmacros']
+  },
+  tex: {
+    inlineMath: [['$', '$']],
+    processEscapes: true,
+    packages: {
+      '[+]': ['textmacros']
+    }
+  }
+};
+</script>
