@@ -41,7 +41,7 @@ For Zoom links, please ask for the password.
 {% endfor %}
 
 <script> 
-window.MathJax = {
+MathJax = {
   loader: {
     load: ['[tex]/textmacros']
   },
