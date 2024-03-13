@@ -1,5 +1,6 @@
 ---
 layout: default2
+title: SUSTech Discrete Mathematics Seminar
 ---
 
 ## Organizers
@@ -12,10 +13,10 @@ For Zoom links, please ask for the password.
 
 ## Talks
 
-  {% assign tolist = site.posts | sort: "date" %}
-  {% for post in tolist %}
-  {% if post.show %}
-  <article>
+{% assign tolist = site.posts | sort: "date" %}
+{% for post in tolist %}
+{% if post.show %}
+<article>
 
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
@@ -35,10 +36,6 @@ For Zoom links, please ask for the password.
 
 {{post.content}}
 
-
-
-
-  </article>
+</article>
 {% endif %}
 {% endfor %}
-
