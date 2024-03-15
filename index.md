@@ -17,7 +17,8 @@ For Zoom links, please ask for the password.
 {% assign curDate = site.time | date: '%s' %}
 {% for post in tolist %}
 {% assign postStartDate = post.date | date: '%s' %}
-{% if post.show and curDate <= postStartDate %}
+{% if post.show %}
+{% if curDate <= postStartDate %}
 <article>
 
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -39,5 +40,6 @@ For Zoom links, please ask for the password.
 {{post.content}}
 
 </article>
+{% endif %}
 {% endif %}
 {% endfor %}
