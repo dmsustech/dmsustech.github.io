@@ -48,6 +48,8 @@ You can contact us under [discretemath@sustech.edu.cn](mailto:discretemath@suste
 
 ## Recent Talks
 
+{% assign tolist = site.posts | sort: "date" | reverse %}
+
 {% assign mylimit = 5 %}
 {% assign mycnt = 0 %}
 {% for post in tolist %}
