@@ -6,6 +6,7 @@ place       : "College of Science M1001"
 title       : "Equality of thickened ribbon Schur functions"
 speaker     : "Yu Jin"
 affiliation : "Xiamen University"
+tencent     : "913 767 753"
 show        : true
 ---
 

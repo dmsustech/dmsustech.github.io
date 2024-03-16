@@ -3,7 +3,7 @@ layout: default2
 ---
 
 <small>{{ page.date | date: "%Y-%m-%d" }}</small>
-<h2><a href="{{ post.url }}">{{ page.title }}</a></h2>
+<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
 
 <p class="view">
 {% if page.homepage %}
@@ -13,9 +13,13 @@ layout: default2
 {% endif %}
 <strong>Room:</strong> {{ page.place }}<br>
 <strong>Time:</strong> {{ page.time}} 
+{% if page.tencent %}
+<br>
+<strong>Tencent Meeting:</strong>{{ page.tencent }}</a>
+{% endif %}
 {% if page.zoom %}
 <br>
-<strong>Zoom:</strong> <a href="https://us06web.zoom.us/j/{{post.zoomid}}">{{ page.zoomid }}</a>
+<strong>Zoom:</strong> <a href="https://us06web.zoom.us/j/{{page.zoomid}}">{{ page.zoomid }}</a>
 {% endif %}
 </p>
 
