@@ -6,6 +6,7 @@ place       : "College of Science M1001"
 title       : "The BCH family of storage codes on triangle-free graphs and its relation to \\(R(3,t)\\)"
 speaker     : "Haihua Deng"
 affiliation : "SUSTech"
+tencent     : "913 767 753"
 show        : true
 ---
 
