@@ -31,7 +31,7 @@ You can contact us under [discretemath@sustech.edu.cn](mailto:discretemath@suste
 <strong>Time:</strong> {{ post.date | date: '%Y/%m/%d, %A'}}, {{ post.time}}
 {% if post.tencent %}
 <br>
-<strong>Tencent Meeting:</strong>{{ post.tencent }}</a>
+<strong>Tencent Meeting:</strong> {{ post.tencent }}
 {% endif %}
 {% if post.zoom %}
 <br>
@@ -73,7 +73,7 @@ You can contact us under [discretemath@sustech.edu.cn](mailto:discretemath@suste
 <strong>Time:</strong> {{ post.date | date: '%Y/%m/%d, %A'}}, {{ post.time}}
 {% if post.tencent %}
 <br>
-<strong>Tencent Meeting:</strong>{{ post.tencent }}</a>
+<strong>Tencent Meeting:</strong> {{ post.tencent }}
 {% endif %}
 {% if post.zoom %}
 <br>
