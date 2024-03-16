@@ -7,19 +7,19 @@ layout: default2
 
 <p class="view">
 {% if page.homepage %}
-<strong>Speaker:</strong> <a href="{{page.homepage}}">{{ page.speaker }}</a> ({{ page.affiliation }})<br>
+<strong>Speaker:</strong>  <a href="{{page.homepage}}">{{ page.speaker }}</a> ({{ page.affiliation }})<br>
 {% else %}
-<strong>Speaker:</strong> {{ page.speaker }} ({{ page.affiliation }})<br>
+<strong>Speaker:</strong>  {{ page.speaker }} ({{ page.affiliation }})<br>
 {% endif %}
-<strong>Room:</strong> {{ page.place }}<br>
-<strong>Time:</strong> {{ page.time}} 
+<strong>Room:</strong>  {{ page.place }}<br>
+<strong>Time:</strong>  {{ page.time}} 
 {% if page.tencent %}
 <br>
-<strong>Tencent Meeting:</strong> {{ page.tencent }}
+<strong>Tencent Meeting:</strong>  {{ page.tencent }}
 {% endif %}
 {% if page.zoom %}
 <br>
-<strong>Zoom:</strong> <a href="https://us06web.zoom.us/j/{{page.zoomid}}">{{ page.zoomid }}</a>
+<strong>Zoom:</strong>  <a href="https://us06web.zoom.us/j/{{page.zoomid}}">{{ page.zoomid }}</a>
 {% endif %}
 </p>
 
@@ -27,5 +27,5 @@ layout: default2
 
 
 {% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+  <small>tags:  <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}

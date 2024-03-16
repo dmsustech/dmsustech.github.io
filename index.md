@@ -23,19 +23,19 @@ You can contact us under [discretemath@sustech.edu.cn](mailto:discretemath@suste
 
 <p class="view">
 {% if post.homepage %}
-<strong>Speaker:</strong> <a href="{{post.homepage}}">{{ post.speaker }}</a> ({{ post.affiliation }})<br>
+<strong>Speaker:</strong>  <a href="{{post.homepage}}">{{ post.speaker }}</a> ({{ post.affiliation }})<br>
 {% else %}
-<strong>Speaker:</strong> {{ post.speaker }} ({{ post.affiliation }})<br>
+<strong>Speaker:</strong>  {{ post.speaker }} ({{ post.affiliation }})<br>
 {% endif %}
-<strong>Room:</strong> {{ post.place }}<br>
-<strong>Time:</strong> {{ post.date | date: '%Y/%m/%d, %A'}}, {{ post.time}}
+<strong>Room:</strong>  {{ post.place }}<br>
+<strong>Time:</strong>  {{ post.date | date: '%Y/%m/%d, %A'}}, {{ post.time}}
 {% if post.tencent %}
 <br>
-<strong>Tencent Meeting:</strong> {{ post.tencent }}
+<strong>Tencent Meeting:</strong>  {{ post.tencent }}
 {% endif %}
 {% if post.zoom %}
 <br>
-<strong>Zoom:</strong> <a href="https://us06web.zoom.us/j/{{post.zoomid}}">{{ post.zoomid }}</a>
+<strong>Zoom:</strong>  <a href="https://us06web.zoom.us/j/{{post.zoomid}}">{{ post.zoomid }}</a>
 {% endif %}
 </p>
 
@@ -65,19 +65,19 @@ You can contact us under [discretemath@sustech.edu.cn](mailto:discretemath@suste
 
 <p class="view">
 {% if post.homepage %}
-<strong>Speaker:</strong> <a href="{{post.homepage}}">{{ post.speaker }}</a> ({{ post.affiliation }})<br>
+<strong>Speaker:</strong>  <a href="{{post.homepage}}">{{ post.speaker }}</a> ({{ post.affiliation }})<br>
 {% else %}
-<strong>Speaker:</strong> {{ post.speaker }} ({{ post.affiliation }})<br>
+<strong>Speaker:</strong>  {{ post.speaker }} ({{ post.affiliation }})<br>
 {% endif %}
-<strong>Room:</strong> {{ post.place }}<br>
-<strong>Time:</strong> {{ post.date | date: '%Y/%m/%d, %A'}}, {{ post.time}}
+<strong>Room:</strong>  {{ post.place }}<br>
+<strong>Time:</strong>  {{ post.date | date: '%Y/%m/%d, %A'}}, {{ post.time}}
 {% if post.tencent %}
 <br>
-<strong>Tencent Meeting:</strong> {{ post.tencent }}
+<strong>Tencent Meeting:</strong>  {{ post.tencent }}
 {% endif %}
 {% if post.zoom %}
 <br>
-<strong>Zoom:</strong> <a href="https://us06web.zoom.us/j/{{post.zoomid}}">{{ post.zoomid }}</a>
+<strong>Zoom:</strong>  <a href="https://us06web.zoom.us/j/{{post.zoomid}}">{{ post.zoomid }}</a>
 {% endif %}
 </p>
 
