@@ -6,6 +6,7 @@ place       : "College of Science M4009"
 title       : "The generating set method and it's applications"
 speaker     : "Huajun Zhang"
 affiliation : "Shaoxing University"
+tencent     : "128 147 721"
 show        : true
 ---
 
