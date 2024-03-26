@@ -6,7 +6,7 @@ place       : "College of Science M1001"
 title       : "Sequences of odd length in strict partitions"
 speaker     : "Shishuo Fu"
 affiliation : "Chongqing University"
-tentcent    : "202 764 736"
+tencent    : "202 764 736"
 show        : true
 ---
 
