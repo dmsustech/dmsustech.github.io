@@ -6,6 +6,7 @@ place       : "College of Science M1001"
 title       : "Recent progress on chromatic thresholds and homomorphism thresholds of graphs "
 speaker     : "Chong Shangguan"
 affiliation : "Shandong University"
+homepage    : "https://faculty.sdu.edu.cn/sgc/zh_CN/index.htm"
 show        : true
 ---
 
