@@ -5,7 +5,7 @@ time        : "10:00 - 11:00"
 place       : "College of Science M1001"
 title       : "TBA"
 speaker     : "Felix Lazebnik"
-affiliation : "Delaware University"
+affiliation : "University of Delaware"
 homepage    : "https://www.udel.edu/faculty-staff/experts/felix-lazebnik/"
 show        : ture
 ---
