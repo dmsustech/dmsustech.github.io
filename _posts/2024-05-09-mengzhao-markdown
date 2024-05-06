@@ -3,10 +3,10 @@ layout      : postno-markdown
 date        : 20YY-05-09 10:00:00 +0800
 time        : "10:00 - 11:00"
 place       : "College of Science M1001"
-title       : "TBA"
+title       : "Classification of $Z_8$($Z_9$)-invariant Butson-Hadmard matrices"
 speaker     : "Meng Zhao"
 affiliation : "SUSTech"
 show        : ture
 ---
 
-TBA
+Abstract: Given a group $G$ and a positive integer $h$, we denote by $BH(G,h)$ the set of all $G$-invariant Butson-Hadamard matrices with entries being $h$-th roots. The group invariant Butson-Hadamard matrices are closely related to the generalized Hadamard matrices, the generalized bent functions, and also the cyclic $h$-th roots. In this talk, we focus on $BH(G,h)$ with $G=\mathbb{Z}_8$ and $\mathbb{Z}_9$, and give a complete classification of these matrices using vanishing sums of roots of unity and the field descent method.
