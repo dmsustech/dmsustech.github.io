@@ -6,7 +6,7 @@ place       : "College of Science M1001"
 title       : "Classification of $Z_8$($Z_9$)-invariant Butson-Hadmard matrices"
 speaker     : "Meng Zhao"
 affiliation : "SUSTech"
-tencent     ： "427 516 130"
+tencent     : "427 516 130"
 show        : ture
 ---
 
