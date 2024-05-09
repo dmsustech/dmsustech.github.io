@@ -3,11 +3,12 @@ layout      : post2
 date        : 2024-05-16 10:00:00 +0800
 time        : "10:00 - 11:00"
 place       : "College of Science M1001"
-title       : "TBA"
+title       : "Turán theorems for even cycles in random hypergraph"
 speaker     : "Jiaxi Nie"
 affiliation : "Fudan University"
 homepage    : "https://jiaxinie.github.io/"
+tencent     :"358 748 886"
 show        : ture
 ---
 
-TBA
+Let $\F$ be an $r$-uniform hypergraph. The random Tur\'an number $\mathrm{ex}(G^r_{n,p},\F)$ is the maximum number of edges in an $\F$-free subgraph of $G^r_{n,p}$, where $G^r_{n,p}$ is the Erd\H{o}s-R\'enyi random $r$-graph with parameter $p$. Let $C^r_{\ell}$ denote the $r$-uniform linear cycle of length $\ell$. For $p\ge n^{-r+2+o(1)}$, Mubayi and Yepremyan showed that $\mathrm{ex}(G^r_{n,p},C^r_{2\ell})\le\max\{p^{\frac{1}{2\ell-1}}n^{1+\frac{r-1}{2\ell-1}+o(1)},pn^{r-1+o(1)}\}$. This upper bound is not tight when $p\le n^{-r+2+\frac{1}{2\ell-2}+o(1)}$. Recently, we close the gap for $r\ge 4$. More precisely, we show that $\mathrm{ex}(G^r_{n,p},C^r_{2\ell})=\Theta(pn^{r-1})$ when $p\ge n^{-r+2+\frac{1}{2\ell-1}+o(1)}$. Similar results have recently been obtained independently in a different way by Mubayi and Yepremyan. For $r=3$, we significantly improve Mubayi and Yepremyan's upper bound.
