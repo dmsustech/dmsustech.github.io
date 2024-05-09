@@ -7,7 +7,7 @@ title       : "Turán theorems for even cycles in random hypergraph"
 speaker     : "Jiaxi Nie"
 affiliation : "Fudan University"
 homepage    : "https://jiaxinie.github.io/"
-tencent     :"358 748 886"
+tencent     : "427 516 130"
 show        : ture
 ---
 
