@@ -7,6 +7,7 @@ title       : "Some recent results and open questions on polynomial graphs"
 speaker     : "Felix Lazebnik"
 affiliation : "University of Delaware"
 homepage    : "https://www.udel.edu/faculty-staff/experts/felix-lazebnik/"
+tencent     : "766 511 815"
 show        : ture
 ---
 
