@@ -3,11 +3,12 @@ layout      : post2
 date        : 2024-05-30 10:00:00 +0800
 time        : "10:00 - 11:00"
 place       : "College of Science M1001"
-title       : "TBA"
+title       : "Graph Theory theorems in random graphs"
 speaker     : "Jie Han"
 affiliation : "Beijing Institute of Technology"
 homepage    : "https://jiehan773.github.io"
+tencent     : "430 774 775"
 show        : true
 ---
 
-TBA
+There has been a growing interest in extending graph theory theorems into the random graph setting. We will survey this line of problems and mention some recent developments.
