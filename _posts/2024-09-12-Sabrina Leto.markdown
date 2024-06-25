@@ -5,7 +5,7 @@ time        : "10:00 - 11:00"
 place       : "College of Science M1001"
 title       : "TBA"
 speaker     : "Sabrina Leto"
-affiliation : "University of Waterloo"
+affiliation : "Umea University"
 homepage    : "https://sites.google.com/view/sabrinalato/about "
 tencent     : "TBA"
 show        : ture
