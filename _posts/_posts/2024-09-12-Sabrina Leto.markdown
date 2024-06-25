@@ -8,5 +8,5 @@ speaker     : "Sabrina Leto"
 affiliation : "University of Waterloo"
 homepage    : "https://sites.google.com/view/sabrinalato/about "
 tencent     : ""
-show        : ture
+show        : false
 ---
