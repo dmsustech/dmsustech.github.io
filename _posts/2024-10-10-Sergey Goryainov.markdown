@@ -7,6 +7,6 @@ place       : "College of Science M1001"
 title       : ""
 speaker     : "Sergey Goryainov"
 affiliation : "Hebei Normal University"
-homepage    : "[http://www.math.is.tohoku.ac.jp/~munemasa/index-e.html](https://sxxy.hebtu.edu.cn/dynamic/content.jsp?id=7d57c55940a2498a9d8ddad72411b85c)"
+homepage    : ""
 tencent     : ""
 show        : ture
