@@ -1,1 +1,12 @@
-
+---
+layout      : post2
+date        : 2024-10-24 10:00:00 +0800
+time        : "10:00 - 11:00"
+place       : "College of Science M1001"
+title       : ""
+speaker     : "Xujun Liu"
+affiliation : "Xi'an Jiaotong Liverpool University"
+homepage    : ""
+tencent     : ""
+show        : ture
+--- 
