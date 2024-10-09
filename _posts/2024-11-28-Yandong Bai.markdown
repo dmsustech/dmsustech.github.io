@@ -6,6 +6,7 @@ place       : "College of Science M1001"
 title       : "TBA"
 speaker     : "Yandong Bai"
 affiliation : "Northwestern Polytechnical University "
+homepage    : "https://teacher.nwpu.edu.cn/baiyandong.html"
 show        : true
 ---
 
