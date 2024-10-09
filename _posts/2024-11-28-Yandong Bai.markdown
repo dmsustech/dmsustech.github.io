@@ -5,7 +5,7 @@ time        : "10:00 - 11:00"
 place       : "College of Science M1001"
 title       : "TBA"
 speaker     : "Yandong Bai"
-affiliation : " "
+affiliation : "Northwestern Polytechnical University "
 show        : true
 ---
 
