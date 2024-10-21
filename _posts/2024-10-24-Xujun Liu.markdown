@@ -3,11 +3,23 @@ layout      : post2
 date        : 2024-10-24 10:00:00 +0800
 time        : "09:00 - 10:00"
 place       : "College of Science M1001"
-title       : ""
+title       : "Packing colorings of subcubic graphs"
 speaker     : "Xujun Liu"
 affiliation : "Xi'an Jiaotong Liverpool University"
 homepage    : ""
 tencent     : ""
 show        : ture
 --- 
-TBA
+For a sequence S = (s1,...,sk) of non-decreasing positive integers, a
+ packing S-coloring of a graph G is a partition of its vertex set V (G) into
+ V1,...,Vk such that for every pair of distinct vertices u,v ∈ Vi the distance
+ between u and v is at least si +1, where 1 ≤ i ≤ k. The packing chromatic
+ number, χp(G), of a graph G is defined to be the smallest integer k such that
+ G has a packing (1,2,...,k)-coloring. Gastineau and Togni asked an open
+ question “Is it true that the 1-subdivision (D(G)) of any subcubic graph G
+ has packing chromatic number at most 5?” and later Breˇ sar, Klavˇ zar, Rall,
+ and Wash conjectured that it is true. Furthermore, Gastineau and Togni
+ also asked “Is it true that every subcubic graph except the Petersen graph
+ is packing (1,2,2,2,2,2)-colorable?”.
+ In this talk, we will discuss some recent developments on above-mentioned
+ problems
