@@ -7,7 +7,7 @@ title       : "Packing colorings of subcubic graphs"
 speaker     : "Xujun Liu"
 affiliation : "Xi'an Jiaotong Liverpool University"
 homepage    : ""
-tencent     : ""
+tencent     : "764 807 591"
 show        : ture
 --- 
 For a sequence S = (s1,...,sk) of non-decreasing positive integers, a
