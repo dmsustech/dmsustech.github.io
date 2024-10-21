@@ -6,7 +6,7 @@ place       : "College of Science M1001"
 title       : "Packing colorings of subcubic graphs"
 speaker     : "Xujun Liu"
 affiliation : "Xi'an Jiaotong Liverpool University"
-homepage    : ""
+homepage    : "https://www.xjtlu.edu.cn/zh?s=%E5%88%98%E6%97%AD%E9%92%A7"
 tencent     : "764 807 591"
 show        : ture
 --- 
