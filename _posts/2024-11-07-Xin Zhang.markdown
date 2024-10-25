@@ -1,1 +1,13 @@
-.
+---
+layout      : post2
+date        : 2024-11-07 09:00:00 +0800
+time        : "09:00 - 10:00"
+place       : "College of Science M1001"
+title       : "TBA"
+speaker     : "Xin Zhang"
+affiliation : "Xidian University"
+homepage    : "https://web.xidian.edu.cn/zhangxin/"
+show        : true
+---
+
+TBA
