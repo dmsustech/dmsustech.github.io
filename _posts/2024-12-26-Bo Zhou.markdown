@@ -1,1 +1,13 @@
-.
+---
+layout      : post2
+date        : 2024-12-26 09:00:00 +0800
+time        : "09:00 - 10:00"
+place       : "College of Science M1001"
+title       : "TBA"
+speaker     : "Bo Zhou"
+affiliation : "South China Normal University"
+homepage    : "http://staff.scnu.edu.cn/bozhou"
+
+---
+
+TBA
