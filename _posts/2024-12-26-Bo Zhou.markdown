@@ -7,7 +7,7 @@ title       : "TBA"
 speaker     : "Bo Zhou"
 affiliation : "South China Normal University"
 homepage    : "http://staff.scnu.edu.cn/bozhou"
-
+show        : true
 ---
 
 TBA
