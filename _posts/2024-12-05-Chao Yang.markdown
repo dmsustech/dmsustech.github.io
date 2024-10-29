@@ -1,1 +1,13 @@
-.
+---
+layout      : post2
+date        : 2024-12-05 09:00:00 +0800
+time        : "09:00 - 10:00"
+place       : "College of Science M1001"
+title       : "TBA"
+speaker     : "Chao Yang"
+affiliation : "Guangdong University of Foreign Studies"
+homepage    : "https://stxy.gdufs.edu.cn/info/1509/2795.htm"
+show        : true
+---
+
+TBA
