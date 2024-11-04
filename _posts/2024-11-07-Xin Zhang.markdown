@@ -3,11 +3,11 @@ layout      : post2
 date        : 2024-11-07 09:00:00 +0800
 time        : "09:00 - 10:00"
 place       : "College of Science M1001"
-title       : "TBA"
+title       : "On cooperative colorings of graphs and hypergraphs"
 speaker     : "Xin Zhang"
 affiliation : "Xidian University"
 homepage    : "https://web.xidian.edu.cn/zhangxin/"
 show        : true
 ---
 
-TBA
+A cooperative coloring in a family G_1,G_2,…,G_m (not necessarily distinct) of graphs that all share the same vertex set V is defined as a process of selecting one independent set I_i from each graph G_i for every i∈ [m]: = {1,2,…,m}, in such a way that the union of all these independent sets covers the entire vertex set V. The notion of cooperative coloring was initially introduced by Aharoni et al in 2015 and has since garnered significant attention and extensive research. In this talk I will introduce the relationships among the cooperative coloring, the adapted coloring, the list coloring, and the independent transversal, and survey known results on this topic. In addition, I will present our new results on the cooperative colorings of hypergraphs (see arXiv:2408.03727). Joint work with Xuqing Bai, Bi Li, and Weichan Liu.
