@@ -7,6 +7,7 @@ title       : "On cooperative colorings of graphs and hypergraphs"
 speaker     : "Xin Zhang"
 affiliation : "Xidian University"
 homepage    : "https://web.xidian.edu.cn/zhangxin/"
+tencent     : "610 799 505"
 show        : true
 ---
 
