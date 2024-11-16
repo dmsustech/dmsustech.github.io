@@ -7,6 +7,7 @@ title       : "On graphs without cycles of length 1 modulo 3"
 speaker     : "Yandong Bai"
 affiliation : "Northwestern Polytechnical University "
 homepage    : "https://teacher.nwpu.edu.cn/baiyandong.html"
+tencent     : "536 330 149"
 show        : true
 ---
 
