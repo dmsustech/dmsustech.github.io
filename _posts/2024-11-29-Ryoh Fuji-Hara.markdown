@@ -6,7 +6,7 @@ place       : "College of Science M4009"
 title       : "Spanning bipartite block designs"
 speaker     : "Ryoh Fuji-Hara"
 affiliation : "University of Tsukuba"
-homepage    : "[https://gr.xjtu.edu.cn/web/wang_weiw](https://dlnext.acm.org/profile/81100431448)"
+homepage    : "https://dlnext.acm.org/profile/81100431448"
 tencent     : "995 677 362"
 show        : ture
 --- 
