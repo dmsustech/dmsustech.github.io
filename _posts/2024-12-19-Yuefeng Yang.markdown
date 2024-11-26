@@ -6,7 +6,7 @@ place       : "College of Science M4009"
 title       : "TBA"
 speaker     : "Yuefeng Yang"
 affiliation : "China University of Geosciences"
-homepage    : ""
+homepage    : "https://zbmath.org/authors/yang.yuefeng"
 show        : true
 ---
 

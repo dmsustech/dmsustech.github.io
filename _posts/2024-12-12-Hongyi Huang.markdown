@@ -6,7 +6,7 @@ place       : "College of Science M1001"
 title       : "Bases and Saxl graphs: New development over the past four years"
 speaker     : "Hongyi Huang"
 affiliation : "University of Bristol "
-homepage    : ""
+homepage    : "https://hongyihuang328.github.io/"
 tencent     : "311 305 103"
 show        : true
 ---
