@@ -1,19 +1,15 @@
 ---
 layout      : post2
 date        : 2024-11-29 10:00:00 +0800
-time        : "09:00 - 10:00"
-place       : "College of Science M1001"
-title       : "New Arithmetic Invariants for Cospectral Graphs"
-speaker     : "Wei Wang"
-affiliation : "Xi'an Jiaotong University"
-homepage    : "https://gr.xjtu.edu.cn/web/wang_weiw"
-tencent     : "770 960 404"
+time        : "10:00 - 11:00"
+place       : "College of Science M4009"
+title       : "Spanning bipartite block designs"
+speaker     : "Ryoh Fuji-Hara"
+affiliation : "University of Tsukuba"
+homepage    : "[https://gr.xjtu.edu.cn/web/wang_weiw](https://dlnext.acm.org/profile/81100431448)"
+tencent     : "995 677 362"
 show        : ture
 --- 
-An invariant for cospectral graphs is a property shared by all graphs. In this
-talk, we give three new invariants for cospectral graphs, characterized by
-their arithmetic nature. Based on these, we are able to show that under certain
-conditions, every graph cospectral with a graph $G$ is determined by its
-generalized spectrum. This is a joint work with Yizhe Ji, Quanyu Tang and Hao
-Zhang.
+We are inspired by an application in deep learning called the DropConnect method, which sparses edges in a complete bipartite graph (connections) to avoid overfitting, and its application to experimental design to improve estimation accuracy. We propose a combinatorial problem called Spanning Bipartite Block Design (SBBD) and show how to construct designs that satisfy the combinatorial requirements of SBBD.
+
 
