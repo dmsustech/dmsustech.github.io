@@ -3,11 +3,11 @@ layout      : post2
 date        : 2024-12-05 09:00:00 +0800
 time        : "09:00 - 10:00"
 place       : "College of Science M1001"
-title       : "TBA"
+title       : "Undecidability of tiling the space with a fixed number of tiles"
 speaker     : "Chao Yang"
 affiliation : "Guangdong University of Foreign Studies"
 homepage    : "https://stxy.gdufs.edu.cn/info/1509/2795.htm"
 show        : true
 ---
 
-TBA
+Recently, Greenfeld and Tao disproved the conjecture that translational tilings of a single tile can always be periodic (Ann. Math. 200(2024), 301-363). In another paper (to appear in J. Eur. Math. Soc.), they also show that if the dimension $n$ is part of the input, the translational tiling for subsets of $Z^n$ with one tile is undecidable. These two results are solid evidence for the conjecture that translational tiling of $Z^n$ with a monotile is undecidable, for some fixed $n$. In general, we study the decidability or undecidability of the following problem: let $k$ and $n$ be fixed positive integers, and a tile is a finite subset of $Z^n$, given a set $S$ of $k$ tiles in $Z^n$, is there an algorithm to decide whether $Z^n$ can be tiled by translated copies of tiles in the set $S$? In this talk, we report some recent progress on the undecidability of this problem based on the joint work with Zhujun Zhang.
