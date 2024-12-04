@@ -7,6 +7,7 @@ title       : "Weakly distance-regular digraphs"
 speaker     : "Yuefeng Yang"
 affiliation : "China University of Geosciences"
 homepage    : "https://zbmath.org/authors/yang.yuefeng"
+tencent     : "453 721 113"
 show        : true
 ---
 
