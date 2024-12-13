@@ -1,7 +1,7 @@
 ---
 layout      : post2
-date        : 2024-12-19 09:00:00 +0800
-time        : "09:00 - 10:00"
+date        : 2024-12-19 14:00:00 +0800
+time        : "14:00 - 15:00"
 place       : "College of Science M4009"
 title       : "Weakly distance-regular digraphs"
 speaker     : "Yuefeng Yang"
