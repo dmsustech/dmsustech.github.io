@@ -6,7 +6,7 @@ place       : "College of Science M1001"
 title       : "On the Nonexistence of Generalized Bent Functions"
 speaker     : "Shuxing Li"
 affiliation : "University of Delaware"
-tecent      :"615 367 766"
+tencent     : "615 367 766"
 show        : true
 ---
 
