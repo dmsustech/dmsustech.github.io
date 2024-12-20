@@ -1,7 +1,7 @@
----
+![image](https://github.com/user-attachments/assets/49749e85-73ce-475b-923e-03d9a049cac8)---
 layout      : post2
-date        : 2024-12-26 09:00:00 +0800
-time        : "09:00 - 10:00"
+date        : 2024-12-26 14:00:00 +0800
+time        : "14:00 - 15:00"
 place       : "College of Science M1001"
 title       : "TBA"
 speaker     : "Bo Zhou"
@@ -10,4 +10,5 @@ homepage    : "http://staff.scnu.edu.cn/bozhou"
 show        : true
 ---
 
-TBA
+Spectral graph theory  deals with the study of the graph properties by using linear algebra tools and techniques via an associated marix for a graph. The most frequently used are  the adjacency matrix, the Laplacian, the signless Laplacian, and the distance matrix.  We discuss some recent works on the \alpha-spectral radius, the Laplacian eigenvalue distribution and the second largest distance eigenvalue.
+
