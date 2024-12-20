@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/49749e85-73ce-475b-923e-03d9a049cac8)---
 layout      : post2
 date        : 2024-12-26 14:00:00 +0800
 time        : "14:00 - 15:00"
