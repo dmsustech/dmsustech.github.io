@@ -1,12 +1,13 @@
 ---
 layout      : post2
-date        : 2024-12-26 14:00:00 +0800
-time        : "14:00 - 15:00"
+date        : 2024-12-26 15:00:00 +0800
+time        : "15:00 - 16:00"
 place       : "College of Science M1001"
 title       : "On the Nonexistence of Generalized Bent Functions"
 speaker     : "Shuxing Li"
 affiliation : "University of Delaware"
 homepage    : ""
+tecent      :"615 367 766"
 show        : true
 ---
 
