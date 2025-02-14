@@ -7,6 +7,7 @@ title       : "An introduction to algebraic combinatorics"
 speaker     : "Yibo Gao"
 affiliation : "Peking University"
 tencent     : "658 464 538"
+homepage    : "http://faculty.bicmr.pku.edu.cn/~gaoyibo/"
 show        : true
 ---
 
