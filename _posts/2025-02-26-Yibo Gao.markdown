@@ -1,1 +1,13 @@
-.
+---
+layout      : post2
+date        : 2025-02-20 10:00:00 +0800
+time        : "10:00 - 11:00"
+place       : "College of Science M1001"
+title       : "An introduction to algebraic combinatorics"
+speaker     : "Yibo Gao"
+affiliation : "Peking University"
+tencent     : "658 464 538"
+show        : true
+---
+
+Algebraic combinatorics is the research area that connects algebra to combinatorics. In this talk, we will provide a very gentle introduction to this area. In the first half, we give an example of studying algebraic structures using combinatorics. Specifically, Schubert polynomials, which are the polynomial representatives of the Schubert classes that form a basis of the cohomology ring of the flag variety, enjoys rich combinatorial properties. In the second half of the talk, we give an example of using algebra to solve combinatorial questions. Namely, we establish the Sperner property of the weak Bruhat order via sl2 representations.
