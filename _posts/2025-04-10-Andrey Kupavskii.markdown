@@ -7,7 +7,7 @@ title       : "TBA"
 speaker     : "Andrey Kupavskii"
 affiliation : "Moscow Institute of Physics and Technology"
 tencent     : "298 668 764"
-homepage    : "[https://www.ibs.re.kr/ecopro/zixiangxu/about/](https://kupavskii.com/)"
+homepage    : "(https://kupavskii.com/)"
 show        : true
 ---
 TBA
