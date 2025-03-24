@@ -3,11 +3,12 @@ layout      : post2
 date        : 2025-03-27 10:00:00 +0800
 time        : "10:00 - 11:00"
 place       : "College of Science M1001"
-title       : "TBA"
+title       : "Some interlacing sequences related to Eulerian and derangement polynomials"
 speaker     : "Li Liu"
 affiliation : "Qufu Normal University"
 tencent     : "350 838 682"
 homepage    : "https://math.qfnu.edu.cn/info/1185/1075.htm"
 show        : true
 ---
-TBA
+The Eulerian polynomials and derangement polynomials arise often in combinatorics,
+algebra and geometry. It is well known that the Eulerian polynomials and derangement polynomials form Sturm sequences, respectively. In this paper, we give new sufficient conditions for the interlacing property of recurrence sequences of polynomials. As applications, we show some interesting interlacing sequences among the Eulerian polynomials, the derangement polynomials and those generalized polynomials for colored permutations.
