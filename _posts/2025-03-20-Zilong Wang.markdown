@@ -3,11 +3,11 @@ layout      : post2
 date        : 2025-03-27 11:00:00 +0800
 time        : "11:00 - 12:00"
 place       : "College of Science M1001"
-title       : "相互无偏正交集合：界与构造"
+title       : "Mutually Unbiased Sets of Orthogonal Vectors: Bound and Constructions"
 speaker     : "Zilong Wang"
 affiliation : "Xidian University"
 tencent     : "350 838 682"
 homepage    : "https://faculty.xidian.edu.cn/WZL3/zh_CN/index.htm"
 show        : true
 ---
-传统同步通信系统中的导频可以通过设计正交序列集或等角紧框架实现。由于多输入多输出（MIMO）的引入，未来同步通信系统中的导频设计要求同一个设备的不同导频正交，不同设备之间的导频干扰尽可能小。或者说，需要设计若干正交的序列集合，不同集合之间的序列内积尽可能小。序列长度L，正交集合大小M，集合个数N和序列内积最大值之间制约关系和达界构造是有趣的问题。其中，当M=1时，该问题转化为等角紧框架问题；当M=1且序列内积固定时，该问题转化为等角线问题；当M=L时，该问题转化为物理中的相互无偏正交基的构造问题。前人对以上三个问题都进行了丰富且深入的研究，但MIMO中的导频设计问题对应于1<M<L，以前鲜有研究。本报告基于实际应用场景首次提出该问题，并给出了序列长度，正交集合大小，集合个数和序列内积最大值之间的制约关系；并针对若干参数，利用组合数学工具给出了达界构造。
+With the development of MIMO communication technology, the sequences for channel estimation assigned to the same user are required to be orthogonal, while the magnitude of the inner product of sequences assigned to different users is expected to be as small as possible. Suppose that there are K users and each user has M mutually orthogonal normalized sequences of length L. In this paper, a lower bound of the maximum magnitude of the inner product between sequences assigned to the different users is given. It is also proved that the magnitude of the inner product between any pair of sequences for different users is equal, when the lower bound is met. Such sequence sets meeting the lower bound are referred to as mutually unbiased sets of orthogonal vectors (MUSOVs), and two infinite class of MUSOVs is constructed by combinatorial methods.
