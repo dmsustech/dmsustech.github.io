@@ -7,7 +7,7 @@ title       : ""
 speaker     : "Jianbing Lu"
 affiliation : "National University of Defense Technology"
 tencent     : "217 380 176"
-homepage    : "https://sci.jmu.edu.cn/info/1182/4566.htm"
+homepage    : ""
 show        : true
 ---
 
