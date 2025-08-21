@@ -1,1 +1,13 @@
-.
+---
+layout      : post2
+date        : 2025-09-25 10:00:00 +0800
+time        : "10:00 - 11:00"
+place       : "College of Science M1001"
+title       : ""
+speaker     : "Yi Wang"
+affiliation : "Dalian University of Technology"
+tencent     : "381 567 537"
+homepage    : "https://faculty.dlut.edu.cn/1988011006/zh_CN/index.htm"
+show        : true
+---
+
