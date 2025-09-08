@@ -9,4 +9,3 @@ affiliation : "Anhui University"
 tencent     : "230 949 914"
 homepage    : "https://math.ahu.edu.cn/wy/list.htm"
 show        : true
-.
