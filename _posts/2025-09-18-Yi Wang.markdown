@@ -3,10 +3,12 @@ layout      : post2
 date        : 2025-09-18 10:00:00 +0800
 time        : "10:00 - 11:00"
 place       : "College of Science M1001"
-title       : ""
+title       : "The spread of graphs"
 speaker     : "Yi Wang"
 affiliation : "Anhui University"
 tencent     : "230 949 914"
 homepage    : "https://math.ahu.edu.cn/wy/list.htm"
 show        : true
 ---
+The spread of a graph is the difference between the largest and smallest
+eigenvalue of its adjacency matrix. In this talk,  we will present some new progress on this topic.
