@@ -10,4 +10,4 @@ tencent     : "381 567 537"
 homepage    : "https://faculty.dlut.edu.cn/1988011006/zh_CN/index.htm"
 show        : true
 ---
-In this talk, l will first give a short survey of selected topics in Sperner theory,with emphasis on the LYM inequality, matchings and chain partitions in graded posets. Andthen l will talk about two interesting applications of Sperner theory. Finally, l will list somerelated problems and coniectures.
+In this talk, l will first give a short survey of selected topics in Sperner theory,with emphasis on the LYM inequality, matchings and chain partitions in graded posets. Andthen l will talk about two interesting applications of Sperner theory. Finally, l will list some related problems and coniectures.
