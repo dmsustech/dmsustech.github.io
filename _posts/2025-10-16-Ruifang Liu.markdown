@@ -2,7 +2,7 @@
 layout      : post2
 date        : 2025-10-16 10:00:00 +0800
 time        : "10:00 - 11:00"
-place       : "College of Science M1001"
+place       : "College of Science M4009"
 title       : "Tur'{a}n number of books in non-bipartite graphs"
 speaker     : "Ruifang Liu"
 affiliation : "Zhengzhou University"
