@@ -3,13 +3,14 @@ layout      : post2
 date        : 2025-11-13 10:00:00 +0800
 time        : "10:00 - 11:00"
 place       : "College of Science M1001"
-title       : "The Directed Degree-f Arboricity of Digraphs"
+title       : "The List Linear Arboricity of Digraphs"
 speaker     : "Ping Hu"
 affiliation : "Sun Yat-sen University"
 tencent     : "280 560 607"
 homepage    : "https://math.sysu.edu.cn/teacher/541"
 show        : true
 ---
-A linear forest is a graph whose components are paths. The linear arboricity la(F) of a graph F is the minimum number of linear forests required to decompose its edges. Akiyama, Exoo, and Harary (1980) proposed the Linear Arboricity Conjecture that la(G)≤ ⌈(d+1)/2 ⌉ for any graph G of maximum degree d. The current best bound, due to Lang and Postle (2023), establishes la(G)≤d/2+ 3√d  log^4  d for sufficiently large d. And they proved this in the stronger list setting proposed by An and Wu (1999).
-We extend Lang and Postle's result to digraphs in the stronger degree-f setting with matching error term. Given a digraph D and a function f on its vertices, a directed subgraph of D is a degree-f branching if every vertex v have indegree at most 1, outdegree at most f(v) - 1 and its underlying undirected graph is a forest. The directed degree-f arboricity a_f (D) of D is the minimum number of colours required to colour the arcs of D so that every color class is a degree-f branching. Let Δ_f (D) be the maximum of d^- (v),d^+ (v)/(f(v)-1). We show that any digraph D with d=Δ_f (D) sufficiently large and f=o(log^(1/2) d) admits a decomposition into at most d+ 3√d  log^4  d degree-f branchings. This improves a result of Wdowinski. Moreover, we establish this bound in the stronger list coloring setting.
+A (directed) linear forest is a graph whose components are (directed) paths. The linear arboricity la(F) of a (di)graph F is the minimum number of (directed) linear forests required to decompose its edges. Akiyama, Exoo, and Harary (1980) conjectured that la(G)≤⌈((Δ+1))⁄2⌉ for any graph G of maximum degree Δ. The current best bound is due to Lang and Postle (2023), who showed la(G)≤ Δ/2+ 3√Δ  log^4  Δ for sufficiently large Δ. And they proved this in the stronger list setting proposed by An and Wu (1999).
+For digraphs, let its maximum degree be the maximum of out-degrees and in-degrees of its vertices. Nakayama and Peroche (1987) conjectured that la(D)≤Δ+1 for any digraph D with maximum degree Δ. We extend Lang and Postle's result to digraphs with matching error term. We show that any digraph D with maximum degree Δ admits a decomposition into at most Δ + 6√Δ  log^4  Δ directed linear forests when Δ is sufficiently large. And we also show this in the list setting.
 Joint work with Yueping Shi.
+
