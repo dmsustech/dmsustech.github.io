@@ -1,1 +1,13 @@
-.
+---
+layout      : post2
+date        : 2026-03-24 10:00:00 +0800
+time        : "10:00 - 11:00"
+place       : "College of Science M1001"
+title       : "Counting sum-free sets"
+speaker     : "Hong Liu"
+affiliation : "Institute for Basic Science, Daejeon, Korea"
+tencent     : "689 341 002"
+homepage    : ""
+show        : true
+---
+Enumeration problems occupy a central place in Extremal Combinatorics. In this talk, I will survey classical results of this sort and go over some recent developments. In particular, I will discuss the problem of estimating the number of maximal sum-free sets in both integers {1,..,n} and finite abelian groups. Here, a set is called sum-free if it does not contain any solution to the equation x+y=z.
