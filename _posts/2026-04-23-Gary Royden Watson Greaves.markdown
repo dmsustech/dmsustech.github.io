@@ -10,17 +10,5 @@ tencent     : "637 218 483"
 homepage    : "https://grwgrvs.github.io/"
 show        : true
 ---
-Certain biased card shuffles, which have been extensively studied
-in probability and combinatorics, can be modelled by a natural Markov chain
-on the symmetric group in which neighbouring elements are swapped according
-to prescribed probabilities. The spectral gap of the transition matrix
-determines how quickly the Markov chain converges to equilibrium.
-
-In this talk, I will present a sharp lower bound on the spectral gap for a
-broad class of such Markov chains and explain how this resolves a
-longstanding conjecture of Fill. The key idea is to decompose the
-transition matrix into an average of elementary transition matrices that
-can be interpreted as orthogonal projections in a suitable inner-product
-space. Finally, I will discuss results on the multiplicity of the
-second-largest eigenvalue in the extremal case where the spectral gap is
-minimised.
+Certain biased card shuffles, which have been extensively studied in probability and combinatorics, can be modelled by a natural Markov chain on the symmetric group in which neighbouring elements are swapped according to prescribed probabilities. The spectral gap of the transition matrix determines how quickly the Markov chain converges to equilibrium.
+In this talk, I will present a sharp lower bound on the spectral gap for abroad class of such Markov chains and explain how this resolves a longstanding conjecture of Fill. The key idea is to decompose the  transition matrix into an average of elementary transition matrices that can be interpreted as orthogonal projections in a suitable inner-product space. Finally, I will discuss results on the multiplicity of the second-largest eigenvalue in the extremal case where the spectral gap is minimised.
