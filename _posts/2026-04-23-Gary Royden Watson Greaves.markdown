@@ -1,6 +1,6 @@
 ---
 layout      : post2
-date        : 2026-04-23 11:00:00 +0800
+date        : 2026-04-23 10:00:00 +0800
 time        : "10:00 - 11:00"
 place       : "College of Science M1001"
 title       : "Card Shuffling with Adjacent Swaps and Fill's Gap Problem"
