@@ -4,7 +4,7 @@ date        : 2026-04-23 10:00:00 +0800
 time        : "10:00 - 11:00"
 place       : "College of Science M1001"
 title       : "Card Shuffling with Adjacent Swaps and Fill's Gap Problem"
-speaker     : "Gary Royden Watson Greaves"
+speaker     : "Gary R. W. Greaves"
 affiliation : "Nanyang Technological University"
 tencent     : "637 218 483"
 homepage    : "https://grwgrvs.github.io/"
