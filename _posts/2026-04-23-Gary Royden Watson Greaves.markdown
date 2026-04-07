@@ -7,7 +7,7 @@ title       : "Card Shuffling with Adjacent Swaps and Fill's Gap Problem"
 speaker     : "Gary Royden Watson Greaves"
 affiliation : "Nanyang Technological University"
 tencent     : "637 218 483"
-homepage    : ""
+homepage    : "https://grwgrvs.github.io/"
 show        : true
 ---
 Certain biased card shuffles, which have been extensively studied
