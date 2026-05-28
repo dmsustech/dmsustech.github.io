@@ -10,7 +10,8 @@ affiliation : "Xi'an Jiaotong University"
 tencent     : "430 886 351"
 homepage    : "https://grwgrvs.github.io/"
 show        : true
----A graph $G$ is said to be
+---
+A graph $G$ is said to be
 determined by the generalized spectrum (DGS), if for any graph $H$, whenever
 $H$ and $G$ are cospectral and their complements are also cospectral, then $H$
 is isomorphic to $G$. Previously, we show a graph $G$ is DGS provided $2^{-\lfloor
