@@ -1,0 +1,19 @@
+---
+layout      : post2
+date        : 2026-06-11 10:00:00 +0800
+time        : "10:00 - 11:00"
+place       : "College of Science M1001"
+title       : "A Square-freeness Condition for
+Graphs Determined by Their Generalized Spectra"
+speaker     : "Wei Wang"
+affiliation : "Xi'an Jiaotong University"
+tencent     : "430 886 351"
+homepage    : "https://grwgrvs.github.io/"
+show        : true
+---A graph $G$ is said to be
+determined by the generalized spectrum (DGS), if for any graph $H$, whenever
+$H$ and $G$ are cospectral and their complements are also cospectral, then $H$
+is isomorphic to $G$. Previously, we show a graph $G$ is DGS provided $2^{-\lfloor
+n/2\rfloor}\det W(G)$ is odd and square-free, where $W(G)$ denotes the
+walk-matrix of $G$. In this talk, we show that the oddness assumption can actually
+be removed, thereby confirming a two-decades conjecture of the second author.  Joint work with Quanyu Tang and Hao Zhang.
