@@ -3,7 +3,7 @@ layout      : post2
 date        : 2026-09-10 10:00:00 +0800
 time        : "10:00 - 11:00"
 place       : "College of Science M1001"
-title       : "Large nontrivial intersecting families in Gr(k,\mathbb{F}_q^{2k})"
+title       : "Large nontrivial intersecting families in Gr(k,mathbb{F}_q^{2k})"
 speaker     : "Elizaveta Iarovikova"
 affiliation : "Moscow Institute of Physics and Technology"
 tencent     : "175 945 501"
