@@ -3,11 +3,11 @@ layout      : post2
 date        : 2026-10-08 10:00:00 +0800
 time        : "10:00 - 11:00"
 place       : "College of Science M1001"
-title       : ""
+title       : "Coxeter Condorcet domains"
 speaker     : "Yibo Gao"
 affiliation : "Peking University"
 tencent     : "876 147 079"
 homepage    : "http://faculty.bicmr.pku.edu.cn/~gaoyibo/"
 show        : true
 ---
-TBA
+In election, the Condorcet paradox says that pairwise majority comparisons can yield cyclic outcomes. The prototypical example is a voting profile consisting of three candidates a,b,c and three votes a>b>c, b>c>a and c>a>b. A Condorcet domain is a set of votes where such local configurations do not appear. In this project, we extend the theory of Condorcet domains to the broader setting of finite Coxeter groups. The core contribution of our approach is the introduction of Condorcet root posets, defined on the chosen root systems. Notably, we establish a natural bijection between closed Condorcet domains and Condorcet root posets, Furthermore, these posets give a unified language that efficiently captures a wide range of desirable properties of Condorcet domains, such as being maximal, connected, peak-pit, and of tiling type. Most of our results are novel in type A. This is joint work with Yulin Peng.
