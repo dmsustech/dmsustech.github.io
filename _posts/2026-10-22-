@@ -1,0 +1,13 @@
+---
+layout      : post2
+date        : 2026-10-22 10:00:00 +0800
+time        : "10:00 - 11:00"
+place       : "College of Science M1001"
+title       : "Nonregular graphs with a given maximum degree attaining the maximum spectral radius"
+speaker     : "Chi Hoi Yip"
+affiliation : "Hong Kong University of Science and Technology"
+tencent     : "589 762 461"
+homepage    : "https://www.researchgate.net/profile/Chi-Hoi-Yip"
+show        : true
+---
+Let G be a connected nonregular graphs of order n with maximum degree k that attains the maximum spectral radius. In 2008, Liu and Li proposed a conjecture stating that G has a degree sequence (k,...,k,t)  with t=k-1 or k-2. In this talk, I will present some progress on this conjecture. This talk is based on joint work with Jiahui Liu and Chenxi Yang.
