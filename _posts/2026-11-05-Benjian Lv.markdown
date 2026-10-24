@@ -11,14 +11,4 @@ homepage    : "https://math.bnu.edu.cn/jzg/bmfl/dsjys/212986.htm"
 show        : true
 ---
 Let *V* be an *n*-dimensional vector space over the finite field 𝔽*q*, and denote by [V over k] the family of all *k*-dimensional subspaces of *V*.
-
-We say that the families
-
-𝓕₁ ⊆ [V over k₁], 𝓕₂ ⊆ [V over k₂], …, 𝓕ᵣ ⊆ [V over kᵣ]
-are *r*-cross *t*-intersecting if
-
-dim(*F₁* ∩ *F₂* ∩ ⋯ ∩ *Fᵣ*) ≥ *t*
-
-for all *Fᵢ* ∈ 𝓕ᵢ, *i* = 1, 2, …, *r*.
-
-In this talk, I will introduce some results about the extremal structures of such families.
+We say that the families 𝓕₁ ⊆ [V over k₁], 𝓕₂ ⊆ [V over k₂], …, 𝓕ᵣ ⊆ [V over kᵣ] are *r*-cross *t*-intersecting ifdim(*F₁* ∩ *F₂* ∩ ⋯ ∩ *Fᵣ*) ≥ *t* for all *Fᵢ* ∈ 𝓕ᵢ, *i* = 1, 2, …, *r*. In this talk, I will introduce some results about the extremal structures of such families.
