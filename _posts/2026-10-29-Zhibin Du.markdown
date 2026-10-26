@@ -3,11 +3,11 @@ layout      : post2
 date        : 2026-10-29 10:00:00 +0800
 time        : "10:00 - 11:00"
 place       : "College of Science M1001"
-title       : ""
+title       : "Eigenvalue Multiplicities and Eigenvalue Distributions of Graphs"
 speaker     : "Zhibin Du"
 affiliation : "South of China Normal University"
 tencent     : "589 762 461"
 homepage    : "http://ai.scnu.edu.cn/a/20241014/259.html"
 show        : true
 ---
-TBA
+The study of eigenvalues is a central topic in spectral graph theory. Eigenvalue multiplicities and eigenvalue distributions reveal important structural properties of graphs and have deep connections with graph invariants such as connectivity, diameter, independence number, and symmetry. In this talk, we present several classical and recent results concerning the multiplicities of graph eigenvalues and the distribution of eigenvalues in graph spectra. We discuss methods for determining eigenvalue multiplicities, characterizing graphs with prescribed spectral properties, and establishing relationships between spectral distributions and graph structures. Applications to graph characterization will also be highlighted.
