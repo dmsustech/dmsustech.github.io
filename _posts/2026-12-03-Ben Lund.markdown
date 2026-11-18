@@ -3,12 +3,18 @@ layout      : post2
 date        : 2026-12-03 10:00:00 +0800
 time        : "10:00 - 11:00"
 place       : "College of Science M1001"
-title       : ""
+title       : "Point degrees from frame energy"
 speaker     : "Benjamin Lund"
 affiliation : "Xidian University"
 tencent     : "406 503 570"
 homepage    : "https://imis.xidian.edu.cn/info/1020/1852.htm"
 show        : true
 ---
-TBA
+How many spanned lines can we guarantee through a single point of a finite set? For n points affinely spanning ℂᵈ, we show that some point lies on at least n+1−2n/(d+1) spanned lines. This bound is attained for infinitely many n in each dimension.
+
+By repeated contraction, this implies a sharp upper bound of r+(ℓ−3)r(r−1)/2 on the number of elements of a simple rank-r complex representable matroid with no U₂,ℓ minor, which extends a theorem of Geelen, Nelson, and Walsh to every rank. As a further application, a rank-r integer matrix whose maximal minors have absolute value at most Δ has O(Δr²) distinct columns.
+
+I will sketch the proof of the line-degree bound, focusing on frame energy, which is the sum of the squared absolute inner products between distinct normalized point vectors. A suitable normalization provides a global upper bound, while collinear sets give local lower bounds.
+
+This is joint work with Matthew Kroeker.
 
